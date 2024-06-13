@@ -36,7 +36,7 @@ pip install -r requirements. txt
 2. Navigate to the project directory:
  
 ```bash
-cd huffman-encoder
+cd huffman_encoder
 ```
 3. Run the script:
 
