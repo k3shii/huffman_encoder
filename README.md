@@ -27,6 +27,12 @@ This Python script implements Huffman coding, a method for lossless data compres
 git clone https://github.com/k3shii/huffman-encoder.git
 ```
 
+2. Installation:
+
+```bash
+pip install -r requirements. txt
+```
+
 2. Navigate to the project directory:
  
 ```bash
